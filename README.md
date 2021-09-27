@@ -2,4 +2,4 @@
 
 Este é o site de dowload do Navegador Gbrowser
 
-Link: https://Gbrowser.netelify.app/
+Link: https://gbrowser.netlify.app/
